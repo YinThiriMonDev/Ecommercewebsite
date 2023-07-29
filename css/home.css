@@ -1,0 +1,50 @@
+.nav-link:hover{
+	color:pink;
+}
+
+.row{
+	background-image:url(admin/covers/p7.gif);
+}
+.snip1352 {
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+  min-width: 255px;
+  max-width: 315px;
+  height: 220px;
+  width: 100%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+.snip1352 img {
+  max-width: 100%;
+  vertical-align: top;
+  -webkit-transition: all 2s ease-out;
+  transition: all 2s ease-out;
+}
+.snip1352:hover img,
+.snip1352.hover img {
+  -webkit-transform: scale(1.4);
+  transform: scale(1.4);
+}
+.footer-bottom{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background:#7ad2de;
+	padding: 10px;
+}
+.footer-bottom p{
+	font-family: arial;
+	font-size: 14px;
+	text-align: center;
+	color::#272727;
+	font-weight: 600;
+	letter-spacing: 2px;
+}
+.footer-bottom p a{
+	color: #fff;
+}
+.footer-bottom p a:hover{
+	color: #272727;
+
+}

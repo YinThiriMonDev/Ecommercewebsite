@@ -1,0 +1,22 @@
+.footer-bottom{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background:#7ad2de;
+	padding: 10px;
+}
+.footer-bottom p{
+	font-family: arial;
+	font-size: 14px;
+	text-align: center;
+	color::#272727;
+	font-weight: 600;
+	letter-spacing: 2px;
+}
+.footer-bottom p a{
+	color: #fff;
+}
+.footer-bottom p a:hover{
+	color: #272727;
+
+}
